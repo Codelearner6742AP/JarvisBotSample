@@ -1,7 +1,7 @@
-# Jarvis - Virtual Assistant
+# Robin - Virtual Assistant
 
 ## Overview
-Jarvis is a Python-based virtual assistant that performs tasks such as web browsing, playing music, fetching the latest news, and providing weather updates. It can also handle custom commands via OpenAI's API, acting as an AI-powered assistant capable of general tasks similar to Alexa or Google Assistant.
+Robin is a Python-based virtual assistant that performs tasks such as web browsing, playing music, fetching the latest news, and providing weather updates. It can also handle custom commands via OpenAI's API, acting as an AI-powered assistant capable of general tasks similar to Alexa or Google Assistant.
 
 ## Features
 - Voice-activated commands using "Jarvis" as the wake word.
