@@ -1,0 +1,12 @@
+{
+    "openai_api_key": "your_openai_api_key",
+    "newsapi_key": "your_newsapi_key",
+    "openweather_api_key": "your_openweather_api_key",
+    "wake_word": "jarvis",
+    "speech_engine": "nsss",
+    "default_country_news": "in",
+    "default_temperature_units": "metric",
+    "default_temperature_lang": "en",
+     "email_user": "youremail",
+     "email_password": "yourpassword"
+  }
